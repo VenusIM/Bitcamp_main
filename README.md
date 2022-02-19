@@ -16,12 +16,20 @@
 - **경매 기능 :** 입찰, 낙찰, 유찰, 낙찰 취소, 중도 철회 등의 기능을 구현하였으며, SockJS와 Stomp를 이용하여 실시간 서비스를 구현하였다.
 - **알림 기능 :** Spring Scheduler를 이용하여 낙찰자가 발생할 경우 JavaMail을 이용하여 화상채팅 링크를 발송하도록 구현하였다.
 - **리뷰 CRUD :** 경매를 확정 지었을때 리뷰를 등록 수정 삭제하도록 구현하였다.
-- **화상 채팅 :** WebRTC와 NodeJs Express를 이용하여 간단한 실시간 화상 채팅을 구현하였다.
+- **화상 채팅 :** WebRTC와 NodeJs Express SocketIO 를 이용하여 간단한 실시간 화상 채팅을 구현하였다.
 - **배포 :** 화상채팅의 경우 SSL이 적용된 경우에 사용자의 미디어를 잡아올 수 있어 AWS EC2 Micro Server에 배포하였다.
 - **SSL :** Let's Crypto를 이용하여 Express서버에 SSL을 적용하고, LoadBalancer와 AWS Certificate Manager를 이용하여 배포한 Tomcat서버에 간단하게 SSL을 적용하였다.
 - **DB :** 교육기간 동안에는 Oracle을 이용하여 수업을 진행하였으나, Mysql 또한 경험해보고 싶어 채택하였고, DB관리자를 담당하였다.
 - **Infra :** 프로젝트의 전반적인 구조를 담당하여 설계하였다.
 - **ETC :** 마이페이지, 관리자 페이지 등 간단한 CRUD를 구현하였다.
+
+
+![image](https://user-images.githubusercontent.com/71271289/154794520-2a042f41-d24c-4a68-ba53-2b67ce413275.png)
+
+
+![image](https://user-images.githubusercontent.com/71271289/154794556-cc0f07ab-669e-4a14-9006-34187e769395.png)
+
+
 
 ## 메인 로직 : 상품 조회 부터 낙찰까지
 
