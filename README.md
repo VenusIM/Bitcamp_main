@@ -24,13 +24,6 @@
 - **ETC :** 마이페이지, 관리자 페이지 등 간단한 CRUD를 구현하였다.
 
 
-![image](https://user-images.githubusercontent.com/71271289/154794520-2a042f41-d24c-4a68-ba53-2b67ce413275.png)
-
-
-![image](https://user-images.githubusercontent.com/71271289/154794556-cc0f07ab-669e-4a14-9006-34187e769395.png)
-
-
-
 ## 메인 로직 : 상품 조회 부터 낙찰까지
 
 **1.** 상품을 조회할 경우 크롤링 데이터, Naver API를 통해 상품 데이터를 구현하였다.  
