@@ -32,6 +32,15 @@
 **4.** 경매가 마감된 경우 Scheduler를 이용하여 경매 상태를 변경 시켰고, 낙찰자에게 화상채팅 링크를 발송하도록 구현하였다.  
 **5.** 1:1 화상채팅을 구현하였다.  
 
+## 화면
+
+![image](https://user-images.githubusercontent.com/71271289/154848512-8c651eee-00b0-4dbf-8ae5-c585d0f32c7d.png)
+
+![image](https://user-images.githubusercontent.com/71271289/154848671-1eacd201-147e-4436-a1a9-38448e2f993a.png)
+
+![image](https://user-images.githubusercontent.com/71271289/154848822-78ea14d3-c078-4fe6-a13c-47d7ce20bb8f.png)
+
+
 ## 설계
 ### :information_desk_person: Class Diagram
 
