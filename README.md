@@ -65,6 +65,9 @@
 ## 개발기간
 - 2021/12/16 ~ 2022/01/23 (5주)
 
+## 프로젝트 보고서
+https://drive.google.com/file/d/1T1SRNyecBj8ZWshN6k-mmXbhiOrbcY8j/view?usp=sharing
+
 ## 역할 분담
 **박철홍 (조장)**
   * 캠핑장(일반 회원)
