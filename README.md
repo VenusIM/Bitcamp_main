@@ -88,7 +88,7 @@ https://drive.google.com/file/d/1T1SRNyecBj8ZWshN6k-mmXbhiOrbcY8j/view?usp=shari
 
 - **PPT**
 
-https://docs.google.com/presentation/d/1p801CDITHKYqHEyQ7gsTLXZ9OdVZ0G1S/edit?usp=sharing&ouid=113422004228714150352&rtpof=true&sd=true
+https://docs.google.com/presentation/d/1sK73NE-SXzq4q4xNc6ggsNBF73vUhxtW/edit?usp=sharing&ouid=113422004228714150352&rtpof=true&sd=true
 
 
 
