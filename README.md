@@ -32,6 +32,20 @@
 **4.** 경매가 마감된 경우 Scheduler를 이용하여 경매 상태를 변경 시켰고, 낙찰자에게 화상채팅 링크를 발송하도록 구현하였다.  
 **5.** 1:1 화상채팅을 구현하였다.  
 
+## 영상
+
+https://user-images.githubusercontent.com/71271289/154849976-c2a1dc64-e331-4761-bd17-a1f2545bd9b8.mp4
+
+https://user-images.githubusercontent.com/71271289/154849963-83767fd4-ed19-4999-aa88-9d154ff93dc9.mp4
+
+https://user-images.githubusercontent.com/71271289/154850050-6622df09-6b95-4050-8ce8-174ed416ad61.mp4
+
+https://user-images.githubusercontent.com/71271289/154850142-73ce71f7-bd78-4a4d-b604-335a17265f24.mp4
+
+https://user-images.githubusercontent.com/71271289/154850206-8d662b5a-ea83-465b-9e7a-5e3ab7813974.mp4
+
+
+
 ## 화면
 
 ![image](https://user-images.githubusercontent.com/71271289/154848512-8c651eee-00b0-4dbf-8ae5-c585d0f32c7d.png)
@@ -63,10 +77,20 @@
 ![image](https://user-images.githubusercontent.com/71271289/154793969-9ec51eec-7c57-4499-a9c9-a46842237e26.png)
 
 ## 개발기간
+
 - 2021/12/16 ~ 2022/01/23 (5주)
 
-## 프로젝트 보고서
+## 프로젝트
+
+- **보고서**
+
 https://drive.google.com/file/d/1T1SRNyecBj8ZWshN6k-mmXbhiOrbcY8j/view?usp=sharing
+
+- **PPT**
+
+https://docs.google.com/presentation/d/1p801CDITHKYqHEyQ7gsTLXZ9OdVZ0G1S/edit?usp=sharing&ouid=113422004228714150352&rtpof=true&sd=true
+
+
 
 ## 역할 분담
 **박철홍 (조장)**
@@ -100,4 +124,7 @@ https://drive.google.com/file/d/1T1SRNyecBj8ZWshN6k-mmXbhiOrbcY8j/view?usp=shari
   * 화면구현
 
 ## 프로젝트 후기
-프로젝트 전체를 AWS에 배포하였으나 프리 티어에서 서비스 진행시 구동의 한계가 있어 로컬서버와 AWS로 분산 구축해야 한다는 아쉬움이 남아있다.
+프로젝트 전체를 AWS에 배포하여 서비스를 시도하였으나 프리 티어에서 구동의 한계가 있어 
+로컬서버와 AWS로 분산 구축하여 아쉬움이 남아있다.
+
+알고리즘 공부 및 개인, 여행 프로젝트를 통해 SpringBoot와 JPA 등에 대해 학습 하고 있다.
