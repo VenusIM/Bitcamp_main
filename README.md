@@ -20,7 +20,7 @@
 - **배포 :** 화상채팅의 경우 SSL이 적용된 경우에 사용자의 미디어를 잡아올 수 있어 AWS EC2 Micro Server에 배포하였다.
 - **SSL :** Let's Crypto를 이용하여 Express서버에 SSL을 적용하고, LoadBalancer와 AWS Certificate Manager를 이용하여 배포한 Tomcat서버에 간단하게 SSL을 적용하였다.
 - **DB :** 교육기간 동안에는 Oracle을 이용하여 수업을 진행하였으나, Mysql 또한 경험해보고 싶어 채택하였고, DB관리자를 담당하였다.
-- **Infra :** 프로젝트의 전반적인 구조를 담당하여 설계하였다.
+- **Infra :** 프로젝트의 전체 구조를 담당하여 설계하고 구성하였다.
 - **ETC :** 마이페이지, 관리자 페이지 등 간단한 CRUD를 구현하였다.
 
 
