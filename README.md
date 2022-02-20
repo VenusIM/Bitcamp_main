@@ -41,7 +41,7 @@
 
 ![image](https://user-images.githubusercontent.com/71271289/154793702-f700ebe9-963f-4a2d-b1b9-d83e32b2b028.png)
 
-### :information_desk_person: ERD(Physical)
+### :information_desk_person: ERD
 
 ![image](https://user-images.githubusercontent.com/71271289/154793746-34a55df8-3579-4e6c-aef1-7fe810f339b4.png)
 
