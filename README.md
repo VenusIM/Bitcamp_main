@@ -131,7 +131,7 @@ https://docs.google.com/presentation/d/1sK73NE-SXzq4q4xNc6ggsNBF73vUhxtW/edit?us
 **임준희[본인] (DataBase 관리)** 
   * 경매
   * 화상채팅
-  * Infra 구축
+  * Infra 구축 및 배포
   * 화면구현
 
 <br/>
