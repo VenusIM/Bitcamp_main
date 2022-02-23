@@ -1,6 +1,7 @@
 # [Gamsung Camping](https://github.com/ohchangyeol/gamsung-project)
 > 방역 체계를 전환하는 ‘위드 코로나’가 시행되었지만 여전히 사람이 대거 몰리는 관광지나 숙소는 꺼려하는 이들이 많고, 이로인하여 도심보단 자연속에서의 감성 추억을 위한 캠핑에 대한 수요가 몰리고 있다.
 
+<br/>
 
 ❓ **Problem :** 캠핑장비의 경우 수요에 따라 공급이 부족한 경우가 많아 캠핑 용품 품귀현상이 자주 발생하며 중고 제품을 구매하는 소비자가 증가하고 또한 중고거래 피해도 증가하고 았다.
 
@@ -8,7 +9,9 @@
 
 📝 **Solution :** 중고 물품 거래를 경매로 진행하여, 수요 공급자 간의 거래 만족도 상승과 화상채팅을 통한 중고 사기 피해를 방지한다.
 
-## 담당 주요 기능과 로직
+<br/>
+
+## 담당파트 주요 기능
 
 - **상품 정보 :** Jsoup을 이용한 크롤링, Naver 검색 API를 이용하여 총 2개의 목록을 구성하였다.
 - **상품 등록, 수정, 삭제 :** 중고거래를 희망하는 상품을 등록하고, 수정하며 삭제할 수 있다.
@@ -23,8 +26,9 @@
 - **Infra :** 프로젝트의 전체 구조를 담당하여 설계하고 구성하였다.
 - **ETC :** 마이페이지, 관리자 페이지 등 간단한 CRUD를 구현하였다.
 
+<br/>
 
-## 메인 로직 : 상품 조회 부터 낙찰까지
+## 담당 파트 메인 로직
 
 **1.** 상품을 조회할 경우 크롤링 데이터, Naver API를 통해 상품 데이터를 구현하였다.  
 **2.** 상품을 조회할 경우 조회수가 1증가하며, 동일한 ip혹은 접속자일 경우의 상황을 고려하여 구현하였다.  
@@ -32,7 +36,9 @@
 **4.** 경매가 마감된 경우 Scheduler를 이용하여 경매 상태를 변경 시켰고, 낙찰자에게 화상채팅 링크를 발송하도록 구현하였다.  
 **5.** 1:1 화상채팅을 구현하였다.  
 
-## 영상
+<br/>
+
+## 담당 파트 영상
 
 https://user-images.githubusercontent.com/71271289/154849976-c2a1dc64-e331-4761-bd17-a1f2545bd9b8.mp4
 
@@ -44,9 +50,9 @@ https://user-images.githubusercontent.com/71271289/154850142-73ce71f7-bd78-4a4d-
 
 https://user-images.githubusercontent.com/71271289/154850206-8d662b5a-ea83-465b-9e7a-5e3ab7813974.mp4
 
+<br/>
 
-
-## 화면
+## 담당 파트 화면
 
 ![image](https://user-images.githubusercontent.com/71271289/154848512-8c651eee-00b0-4dbf-8ae5-c585d0f32c7d.png)
 
@@ -54,6 +60,7 @@ https://user-images.githubusercontent.com/71271289/154850206-8d662b5a-ea83-465b-
 
 ![image](https://user-images.githubusercontent.com/71271289/154848822-78ea14d3-c078-4fe6-a13c-47d7ce20bb8f.png)
 
+<br/>
 
 ## 설계
 ### :information_desk_person: Class Diagram
@@ -76,9 +83,13 @@ https://user-images.githubusercontent.com/71271289/154850206-8d662b5a-ea83-465b-
 
 ![image](https://user-images.githubusercontent.com/71271289/154793969-9ec51eec-7c57-4499-a9c9-a46842237e26.png)
 
+<br/>
+
 ## 개발기간
 
 - 2021/12/16 ~ 2022/01/23 (5주)
+
+<br/>
 
 ## 프로젝트
 
@@ -90,9 +101,9 @@ https://drive.google.com/file/d/1T1SRNyecBj8ZWshN6k-mmXbhiOrbcY8j/view?usp=shari
 
 https://docs.google.com/presentation/d/1sK73NE-SXzq4q4xNc6ggsNBF73vUhxtW/edit?usp=sharing&ouid=113422004228714150352&rtpof=true&sd=true
 
+<br/>
 
-
-## 역할 분담
+## 팀원 및 역할 분담
 **박철홍 (조장)**
   * 캠핑장(일반 회원)
   * 화면구현
@@ -122,6 +133,8 @@ https://docs.google.com/presentation/d/1sK73NE-SXzq4q4xNc6ggsNBF73vUhxtW/edit?us
   * 화상채팅
   * Infra 구축
   * 화면구현
+
+<br/>
 
 ## 프로젝트 후기
 프로젝트 전체를 AWS에 배포하여 서비스를 시도하였으나 프리 티어에서 구동의 한계가 있어 분산 구축을 하게 되어 아쉬움이 남아있다.
