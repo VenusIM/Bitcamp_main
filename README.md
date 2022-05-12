@@ -135,6 +135,3 @@ https://docs.google.com/presentation/d/1sK73NE-SXzq4q4xNc6ggsNBF73vUhxtW/edit?us
   * 화면구현
 
 <br/>
-
-## 프로젝트 후기
-프로젝트 전체를 AWS에 배포하여 서비스를 시도하였으나 프리 티어에서 구동의 한계가 있어 분산 구축을 하게 되어 아쉬움이 남아있다.
