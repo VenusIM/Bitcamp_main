@@ -104,7 +104,13 @@ https://docs.google.com/presentation/d/1sK73NE-SXzq4q4xNc6ggsNBF73vUhxtW/edit?us
 <br/>
 
 ## 팀원 및 역할 분담
-**박철홍 (조장)**
+**임준희[본인]** 
+  * 경매
+  * 화상채팅
+  * Infra 구조 설계 및 배포
+  * 화면구현
+  
+**박철홍**
   * 캠핑장(일반 회원)
   * 화면구현
 
@@ -123,15 +129,9 @@ https://docs.google.com/presentation/d/1sK73NE-SXzq4q4xNc6ggsNBF73vUhxtW/edit?us
   * 예약양도양수
   * 화면구현
  
-**오창열 (Git 관리)**
+**오창열**
   * 고객지원
   * 채팅
   * 화면 구현
-
-**임준희[본인] (DataBase 관리)** 
-  * 경매
-  * 화상채팅
-  * Infra 구조 설계 및 배포
-  * 화면구현
 
 <br/>
